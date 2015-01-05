@@ -46,3 +46,6 @@
 
 [push]
 	default = simple
+[user]
+	email = jbmoutout@gmail.com
+	name = Jean Brice Moutout
